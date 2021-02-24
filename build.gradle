@@ -3,7 +3,7 @@ plugins {
 }
 apply plugin: 'application'
 
-group 'xyz.kosgei'
+group 'nush'
 version '1.0-SNAPSHOT'
 
 archivesBaseName = "Hero-Squad"
